@@ -1,0 +1,8 @@
+{
+	"name": "exatypes",
+	"description": "Provides type definitions for EXAPUNKS custom level code.",
+	"authors": "brunnerh",
+	"version": "0.1.0",
+	"types": "exapunks.d.ts",
+	"dependencies": {}
+}
