@@ -9,7 +9,7 @@ declare interface Link extends Handle<"Link"> { }
 declare interface ExaFile extends Handle<"File"> { }
 declare interface Register extends Handle<"Register"> { }
 declare interface Goal extends Handle<"Goal"> { }
-declare interface ExaWindow extends Handle<"ExaWindow"> { }
+declare interface ExaWindow extends Handle<"Window"> { }
 
 declare type ExaFileEntry = string | number;
 declare type ExaFileContents = ExaFileEntry[];

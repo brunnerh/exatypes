@@ -1,8 +1,18 @@
 {
 	"name": "exatypes",
-	"description": "Provides type definitions for EXAPUNKS custom level code.",
+	"description": "Provides type declarations for EXAPUNKS custom level code.",
+	"license": "MIT",
+	"keywords": [
+		"exapunks",
+		"typescript",
+		"type declarations"
+	],
 	"authors": "brunnerh",
-	"version": "0.1.0",
+	"version": "0.1.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brunnerh/exatypes"
+	},
 	"types": "exapunks.d.ts",
 	"dependencies": {}
 }
